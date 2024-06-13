@@ -110,7 +110,7 @@ Uma API para cadastrar filmes e inserir uma nota entre 1 e 5, vinculado a um usu
 	"name": "usuário",
 	"email": "usuario@email.com",
 	"password": "1234",
-    "old_password": "123"
+    	"old_password": "123"
 }
 ```
 
